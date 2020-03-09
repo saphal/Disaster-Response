@@ -16,11 +16,13 @@
 
 <h4>6. Screen Shot</h4>
 
-<h4>7. Author</h4>
+<h4>7. Licensing, Authors, and Acknowledgements</h4>
+
+<h4>8. Author</h4>
 
 
 
-<h4>6. Licensing, Authors, and Acknowledgements</h4>
+
 
 
 <h3>Installation</h3>
