@@ -16,6 +16,8 @@
 
 <h4>6. Screen Shot</h4>
 
+<h4>7. Author</h4>
+
 
 
 <h4>6. Licensing, Authors, and Acknowledgements</h4>
@@ -54,7 +56,7 @@ This project will include a web app where an emergency worker can input a new me
     - templates contains html file for the web application
     
 
-<h3>Instruction/h3>
+<h3>Instruction</h3>
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -85,5 +87,11 @@ This project will include a web app where an emergency worker can input a new me
 <h3>Licensing</h3>
 
 Big thanks to Udacity for providing opportunity for this project. I would also like to thank figure 8 for providing us data.
+
+<h3>Author</h3>
+
+Saphal Adhikari
+
+https://www.linkedin.com/in/saphaladhikari/
 
 
