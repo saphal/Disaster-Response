@@ -27,7 +27,7 @@ wordnet
 
 stopwords
 
-git clone https://github.com/matteobonanomi/disaster-response.git
+git clone https://github.com/saphal/Disaster-Response.git
 
 <h3>Project Motivation</h3>
 This is an Udacity Nanodegree project.In this project, I'll apply data engineering to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
@@ -70,7 +70,7 @@ Big thanks to Udacity for providing opportunity for this project. I would also l
     - To run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
     - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pk`
 
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
